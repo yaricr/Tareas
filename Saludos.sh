@@ -1,3 +1,3 @@
 #!/bin/bash
-nombre="yahir chi"
+nombre="yahir ramirez"
 echo "mi nombre es $nombre"
